@@ -1,5 +1,5 @@
 xxx<?php
-include 'dxxatabase.php';
+include 'database.php';
 
 $ip = isset($_SERVER["HTTP_CF_CONNECTING_IP"]) ? $_SERVER["HTTP_CF_CONNECTING_IP"] : $_SERVER["REMOTE_ADDR"];
 
